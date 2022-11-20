@@ -1,0 +1,15 @@
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\bin\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.deps.json
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\bin\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.dll
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\bin\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.pdb
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\bin\Debug\netcoreapp3.1\Metrologie.Data.dll
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\bin\Debug\netcoreapp3.1\Metrologie.Domain.dll
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\bin\Debug\netcoreapp3.1\Metrologie.Data.pdb
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\bin\Debug\netcoreapp3.1\Metrologie.Domain.pdb
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\obj\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.csproj.AssemblyReference.cache
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\obj\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\obj\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\obj\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.AssemblyInfo.cs
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\obj\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\obj\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.csproj.CopyComplete
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\obj\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.dll
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.INFRA.IoC\obj\Debug\netcoreapp3.1\Metrologie.Infra.Ioc.pdb

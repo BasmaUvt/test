@@ -1,0 +1,10 @@
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\bin\Debug\netcoreapp3.1\Metrologie.Domain.deps.json
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\bin\Debug\netcoreapp3.1\Metrologie.Domain.dll
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\bin\Debug\netcoreapp3.1\Metrologie.Domain.pdb
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\obj\Debug\netcoreapp3.1\Metrologie.Domain.csproj.AssemblyReference.cache
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\obj\Debug\netcoreapp3.1\Metrologie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\obj\Debug\netcoreapp3.1\Metrologie.Domain.AssemblyInfoInputs.cache
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\obj\Debug\netcoreapp3.1\Metrologie.Domain.AssemblyInfo.cs
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\obj\Debug\netcoreapp3.1\Metrologie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\obj\Debug\netcoreapp3.1\Metrologie.Domain.dll
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.DOMAIN\obj\Debug\netcoreapp3.1\Metrologie.Domain.pdb

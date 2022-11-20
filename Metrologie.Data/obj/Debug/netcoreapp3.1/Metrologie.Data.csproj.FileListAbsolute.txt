@@ -1,0 +1,16 @@
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\bin\Debug\netcoreapp3.1\Metrologie.Data.deps.json
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\bin\Debug\netcoreapp3.1\Metrologie.Data.runtimeconfig.json
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\bin\Debug\netcoreapp3.1\Metrologie.Data.runtimeconfig.dev.json
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\bin\Debug\netcoreapp3.1\Metrologie.Data.dll
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\bin\Debug\netcoreapp3.1\Metrologie.Data.pdb
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\bin\Debug\netcoreapp3.1\Metrologie.Domain.dll
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\bin\Debug\netcoreapp3.1\Metrologie.Domain.pdb
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\obj\Debug\netcoreapp3.1\Metrologie.Data.csproj.AssemblyReference.cache
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\obj\Debug\netcoreapp3.1\Metrologie.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\obj\Debug\netcoreapp3.1\Metrologie.Data.AssemblyInfoInputs.cache
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\obj\Debug\netcoreapp3.1\Metrologie.Data.AssemblyInfo.cs
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\obj\Debug\netcoreapp3.1\Metrologie.Data.csproj.CoreCompileInputs.cache
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\obj\Debug\netcoreapp3.1\Metrologie.Data.csproj.CopyComplete
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\obj\Debug\netcoreapp3.1\Metrologie.Data.dll
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\obj\Debug\netcoreapp3.1\Metrologie.Data.pdb
+C:\Users\09640710\Downloads\Metrology\BackMetrology\metrologiebackend\Metrologie.Data\obj\Debug\netcoreapp3.1\Metrologie.Data.genruntimeconfig.cache
